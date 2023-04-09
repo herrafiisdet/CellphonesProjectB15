@@ -7,5 +7,10 @@ public class Main {
         NOKIA.color="white";
         NOKIA.price="$250";
 
+        specs samsung=new specs();
+        samsung.ram="8";
+        samsung.size=5;
+        samsung.storage="64";
+
     }
 }
