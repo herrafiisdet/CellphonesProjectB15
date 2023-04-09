@@ -9,7 +9,7 @@ public class Main {
 
         specs samsung=new specs();
         samsung.ram="8";
-        samsung.size=5;
+        samsung.size="5";
         samsung.storage="64";
 
     }
